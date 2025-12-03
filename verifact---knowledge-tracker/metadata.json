@@ -1,0 +1,5 @@
+{
+  "name": "VeriFact - Knowledge Tracker",
+  "description": "一个利用 Gemini Grounding 功能追踪真实世界知识来源、可视化引用并识别 LLM 回答中潜在知识盲点（幻觉）的 React 应用程序。",
+  "requestFramePermissions": []
+}
