@@ -142,7 +142,6 @@ const apiKey = import.meta.env.VITE_GEMINI_API_KEY || '';
 
 从 result.text() 获取文本回答，从 result.groundingMetadata.groundingChunks 提取 web.uri / web.title 等来源并去重。
 
-（你在 services/geminiService.ts 中已有实现，注意 SDK 版本差异与 API 返回结构，参见 types.ts 的 GroundingChunk / GroundingMetadata 设计。）
 
 ## 🧾 Usage（UI 指南）
 
