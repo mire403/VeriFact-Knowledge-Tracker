@@ -7,7 +7,7 @@ VeriFact 是一个面向研究与工程的轻量级前端工具，利用 Google 
 VeriFact — Knowledge Tracker is a lightweight React demo that uses Google Gemini grounding features to extract and visualize external evidence supporting LLM answers. It helps researchers and engineers spot unsupported claims (hallucinations) and verify facts quickly.
 
 <div align="center">
-  <img src="https://github.com/mire403/VeriFact---Knowledge-Tracker/blob/main/%E9%A1%B5%E9%9D%A2.png">
+  <img src="https://github.com/mire403/VeriFact-Knowledge-Tracker/blob/main/verifact---knowledge-tracker/picture/%E9%A1%B5%E9%9D%A2.png">
 </div>
 
 ## 🚀 项目亮点（Why VeriFact）
@@ -23,7 +23,7 @@ VeriFact — Knowledge Tracker is a lightweight React demo that uses Google Gemi
 **🧾 查询历史**：保留最近多条查询记录，方便复查与比较。
 
 <div align="center">
-  <img src="https://github.com/mire403/VeriFact---Knowledge-Tracker/blob/main/%E5%AE%9E%E9%99%85%E4%BD%BF%E7%94%A8.png">
+  <img src="https://github.com/mire403/VeriFact-Knowledge-Tracker/blob/main/verifact---knowledge-tracker/picture/%E5%AE%9E%E9%99%85%E4%BD%BF%E7%94%A8.png">
 </div>
 
 ## 🧩 适用场景
